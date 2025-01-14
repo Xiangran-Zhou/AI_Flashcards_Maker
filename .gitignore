@@ -1,0 +1,35 @@
+# Ignore API keys
+AI_Flashcards_Maker/APIKeys.plist
+
+# Ignore Google Firebase config
+AI_Flashcards_Maker/GoogleService-Info.plist
+
+# Ignore build and temporary files
+build/
+DerivedData/
+
+# Ignore Xcode related user-specific data
+*.xcuserdatad/
+*.xcuserdata/
+*.xcworkspace/
+xcuserdata/
+
+# Ignore Swift Package Manager
+.swiftpm/
+Package.resolved
+Packages/
+
+# Ignore Carthage build artifacts
+Carthage/Build/
+
+# Ignore CocoaPods
+Pods/
+Podfile.lock
+
+# Ignore generated Xcode project files
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcodeproj/xcshareddata/**/*
+
+
