@@ -13,7 +13,8 @@
 ---
 
 ## Screenshot of App
-![App Demo](https://github.com/user-attachments/assets/5053ee4e-8be9-4515-82b5-f2b1cd2ae4d4)
+![App Demo](https://github.com/user-attachments/assets/fc803584-dd09-408b-8298-ad5208ffa8ee)
+
 ---
 
 
